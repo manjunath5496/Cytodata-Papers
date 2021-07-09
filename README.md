@@ -45,6 +45,12 @@ discovery: due for a machine- learning upgrade?</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Cytodata-Papers/blob/master/c(21).pdf" style="text-decoration:none;">Phenotypic profiling of the human genome by time-lapse microscopy reveals cell division genes</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Cytodata-Papers/blob/master/c(22).pdf" style="text-decoration:none;">Evaluation of Deep Learning Strategies for Nucleus Segmentation in Fluorescence Images</a></li> 
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cytodata-Papers/blob/master/c(23).pdf" style="text-decoration:none;">CytoPred: a server for prediction and classification of cytokines</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cytodata-Papers/blob/master/c(24).pdf" style="text-decoration:none;">Flow Cytometry Data Analysis: Comparing Large
+Multivariate Data Sets Using Classification Trees</a></li>  
+  
+  
  </ul>
    
    
